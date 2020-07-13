@@ -5,4 +5,4 @@ Performing analysis on Kickstarter data to uncover trends.
 ## Parent Category Outcomes
 ![Parent_Category_Outcome](~/Desktop/to/Parent_Category_Outcome.png)
 ### Recommendation
-In order to achieve a successful campaign you want to reduce the cost of your play to below 4,000 GBP since half of a successful campaign goal is less than 2,000 GBP with the average amount pledge is around 1,000 GBP.
+In order to achieve a successful campaign you want to reduce the cost of your play to below 4,000 GBP. Half of the sucessful campaigns had goals of less than 2,000 GBP with backers pledging an average amount of 1,000 GBP.
